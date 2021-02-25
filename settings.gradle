@@ -1,0 +1,3 @@
+rootProject.name = 'BasicsCryptographySubj'
+include 'groovy'
+
